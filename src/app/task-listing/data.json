@@ -1,0 +1,32 @@
+[
+    {
+        "taskid":1,
+        "taskName":"developing",
+        "taskDescription":"develop an app",
+        "taskAssignee":"Koustav Khanda"
+    },
+    {
+        "taskid":2,
+        "taskName":"testing",
+        "taskDescription":"testing an app",
+        "taskAssignee":"Swaraj Pal"
+    },
+    {
+        "taskid":3,
+        "taskName":"deploying",
+        "taskDescription":"deploy an app",
+        "taskAssignee":"Sandip Pal"
+    },
+    {
+        "taskid":4,
+        "taskName":"bugfixing",
+        "taskDescription":"fixing bugs in an app",
+        "taskAssignee":"Tuhin Majumdar"
+    },
+    {
+        "taskid":5,
+        "taskName":"auditing",
+        "taskDescription":"auditing an app",
+        "taskAssignee":"Suraj Yadav"
+    }
+]

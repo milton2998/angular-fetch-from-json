@@ -1,0 +1,20 @@
+<!-- task-listing.component.html -->
+<div class="container">
+    <h1>Fetching all task data details from data.json </h1>
+    <table>
+        <thead>
+            <th>Task ID</th>
+            <th>Task Name</th>
+            <th>Task Description</th>
+            <th>Task Assignee</th>
+        </thead>
+        <tbody>
+            <tr *ngFor="let k of tasks">
+                <td>{{k.taskid}}</td>
+                <td>{{k.taskName}}</td>
+                <td>{{k.taskDescription}}</td>
+                <td>{{k.taskAssignee}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
