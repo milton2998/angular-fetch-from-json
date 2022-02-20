@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: angular-fetch-from-json
+  annotations:
+    github.com/project-slug: milton2998/angular-fetch-from-json
+spec:
+  type: other
+  lifecycle: unknown
+  owner: backstage
